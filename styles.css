@@ -1,0 +1,28 @@
+﻿html {
+    margin: 0;
+    padding: 0;
+    background-image: url(images/clouds.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+}
+section {
+    margin: auto auto;
+    text-align: center;
+}
+a {
+    margin: 5px;
+}
+ul, li {
+    margin: 0;
+    padding: 0;
+    display: inline;
+    vertical-align: middle;
+}

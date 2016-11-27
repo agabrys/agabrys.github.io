@@ -1,0 +1,23 @@
+var NAVTREEINDEX =
+{
+"index.html":[],
+"namespaces.html":[0,0],
+"namespace_g_a.html":[0,0,0],
+"annotated.html":[1,0],
+"class_g_a_1_1_class.html":[1,0,0],
+"class_g_a_1_1_enum.html":[1,0,1],
+"class_g_a_1_1_exception.html":[1,0,2],
+"classes.html":[1,1],
+"hierarchy.html":[1,2],
+"functions.html":[1,3,0],
+"functions_func.html":[1,3,1],
+"files.html":[2,0],
+"_class_8js.html":[2,0,0],
+"_enum_8js.html":[2,0,1],
+"_exception_8js.html":[2,0,2],
+"init_8js.html":[2,0,3],
+"_protocol_8js.html":[2,0,4],
+"globals.html":[2,1,0],
+"globals_func.html":[2,1,1],
+"globals_vars.html":[2,1,2]
+};

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>JS.Class - Requires problem</title>
+        <meta charset="UTF-8" />
+        <meta name="author" content="Adam Gabryś" />
+        <script type="text/javascript">
+            //<![CDATA[
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-30967864-1']);
+            _gaq.push(['_setDomainName', 'adam.gabrys.biz']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]>
+        </script>
+    </head>
+    <body>
+        <ul>
+            <li><a href="test/class_does_not_require_exception.html">Show tests when Class requires Exception, but Excpetion does not require Class (test failed!)</a></li>
+            <li><a href="test/class_requires_exception.html">Show tests when Class requires Exception and Exception requires Class</a></li>
+            <li><a href="sources.zip">Download sources (.zip)</a></li>
+        </ul>
+    </body>
+</html>
