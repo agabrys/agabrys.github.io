@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: 
-Sitemap: http://www.adam.gabrys.biz/sitemap.xml
+Sitemap: https://agabrys.github.io/sitemap.xml
+Sitemap: https://agabrys.github.io/chocolatey-packages/sitemap.xml
